@@ -1,0 +1,15 @@
+{
+  "name": "to_run_command_with_api",
+  "version": "1.0.0",
+  "description": "To run Command with the api eg: ls ,any script file which we want to run , etc.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
